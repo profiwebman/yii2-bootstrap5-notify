@@ -8,9 +8,9 @@
 
 Notify widget based on [Bootstrap Notify](http://bootstrap-notify.remabledesigns.com/)
 
-[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/v/stable)](https://packagist.org/packages/yii2mod/yii2-bootstrap-notify)
-[![Total Downloads](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/downloads)](https://packagist.org/packages/yii2mod/yii2-bootstrap-notify)
-[![License](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/license)](https://packagist.org/packages/yii2mod/yii2-bootstrap-notify)
+[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/v/stable)](https://packagist.org/packages/profiwebman/yii2-bootstrap5-notify)
+[![Total Downloads](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/downloads)](https://packagist.org/packages/profiwebman/yii2-bootstrap5-notify)
+[![License](https://poser.pugx.org/yii2mod/yii2-bootstrap-notify/license)](https://packagist.org/packages/yii2mod/profiwebman-bootstrap5-notify)
 
 Installation 
 ------------
@@ -20,13 +20,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2mod/yii2-bootstrap-notify "*"
+php composer.phar require --prefer-dist profiwebman/yii2-bootstrap5-notify "*"
 ```
 
 or add
 
 ```
-"yii2mod/yii2-bootstrap-notify": "*"
+"profiwebman/yii2-bootstrap5-notify": "*"
 ```
 
 to the require section of your composer.json.
