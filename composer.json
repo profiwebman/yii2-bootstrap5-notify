@@ -1,22 +1,22 @@
 {
-    "name": "yii2mod/yii2-bootstrap-notify",
-    "description": "Alert widget based on Bootstrap Notify extension {@link http://bootstrap-notify.remabledesigns.com/)",
+    "name": "profiwebman/yii2-bootstrap5-notify",
+    "description": "Alert widget based on Bootstrap Notify extension {@link http://bootstrap-notify.remabledesigns.com/) forked from yii2mod/yii2-bootstrap-notify and modified for use with bootstrap5",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
         "yii2 alert",
-        "yii2 bootstrap alert"
+        "yii2 bootstrap5 alert"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Igor Chepurnoi",
-            "email": "chepurnoi.igor@gmail.com"
+            "name": "Andrey Shevchenko",
+            "email": "profiwebman@gmail.com"
         }
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "yiisoft/yii2-bootstrap": "*",
+        "yiisoft/yii2-bootstrap5": "*",
         "bower-asset/remarkable-bootstrap-notify": "*",
         "bower-asset/animate.css": "*"
     },
